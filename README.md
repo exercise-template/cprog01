@@ -6,13 +6,7 @@
 
 ## Directions
 
- Complete the source code so that the program compute the simple arithmetic 
- mean of the values stored in the input variables. 
-
- Upon execution, the program output shall comprise a real value with at 
- least two decimal places.
-
- Please, do not include anything else but the raw value in the output.
+ Complete the source code of each program as approriate.
 
  Make sure your program compiles successfully with no errors or warnings.
  
